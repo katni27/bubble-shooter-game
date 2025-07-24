@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021.11.24 21:15:14.192.cpp,C:\Users\nikit\Documents\Borland Studio Projects\Unit1.cpp=C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\BubbleShooter.cpp</Transaction>
+    <Transaction>2021.11.24 21:15:14.192.h,C:\Users\nikit\Documents\Borland Studio Projects\Unit1.h=C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\BubbleShooter.h</Transaction>
+    <Transaction>2021.11.24 21:15:14.192.dfm,C:\Users\nikit\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\BubbleShooter.dfm</Transaction>
+    <Transaction>2021.11.24 21:16:25.964.cpp,C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\BubbleShooter.cpp=C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\Game.cpp</Transaction>
+    <Transaction>2021.11.24 21:16:25.964.h,C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\BubbleShooter.h=C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\Game.h</Transaction>
+    <Transaction>2021.11.24 21:16:25.964.dfm,C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\BubbleShooter.dfm=C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\Game.dfm</Transaction>
+    <Transaction>2021.11.24 21:30:12.910.bdsproj,C:\Users\nikit\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\nikit\YandexDisk\Учеба\Визуальное программирование\w\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
