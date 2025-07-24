@@ -17,7 +17,7 @@
 
 ## 🖼️ Интерфейс
 
-<img src="images/game_process.gif" alt="Геймплей игры" width="700" />
+<img src="images/game_process.gif" alt="Геймплей игры" width="600" />
 
 ---
 
